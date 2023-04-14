@@ -1,2 +1,6 @@
 .DS_Store
 azure/
+function/.venv/
+.vscode/
+function/.funcignore
+web/.deployment

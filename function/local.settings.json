@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=congdinh2023prj3;AccountKey=hPotVt/Mppu007p9HGpyh6IobBR9qZvqFp+oA3RqON2Kn5xY4E+qRus1nanasEh2WElGf0NkN/oM+AStxc6hcw==",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "dc28ad51-6d8b-4f6c-b670-a2d4af2e6588",
+    "WEBSITE_MOUNT_ENABLED": "1",
+    "techconf_SERVICEBUS": "Endpoint=sb://techconf.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Jt6/lmRItFoZniHhkYDDvt2QG/1esjiuC+ASbKMO7II=",
+    "ADMIN_EMAIL_ADDRESS": "admin@gmail.com",
+    "SENDGRID_API_KEY": "get_from_sendgrid",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=congdinh2023prj3;AccountKey=hPotVt/Mppu007p9HGpyh6IobBR9qZvqFp+oA3RqON2Kn5xY4E+qRus1nanasEh2WElGf0NkN/oM+AStxc6hcw==",
+    "WEBSITE_CONTENTSHARE": "techconf-functionsbd04017b0a58"
+  }
+}
